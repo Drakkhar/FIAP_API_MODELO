@@ -1,0 +1,6 @@
+joblib==1.2.0
+scikit-learn
+Flask==2.2.2
+PyJWT
+Numpy==1.22.4
+SQLAlchemy==1.4.44
